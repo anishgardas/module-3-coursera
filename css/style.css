@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    color:white;
+
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+/** HEADER *//
+
+.navbar-brand{
+    color:black;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.color{
+    background-color: silver;
+}
+
+
+#divcolors{
+    background-color: silver;
+    
+    margin: 40px;
+    
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+     /* start of medium tablet styles */
+#div3{
+    background-color: silver;
+    width:100%;
+    margin:40px;
+}
+
+}
+
+
+@media screen and (max-width: 1900px) {
+     /* start of medium tablet styles */
+#div3{
+    background-color: silver;
+    margin:40px;
+}
+}
